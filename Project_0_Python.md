@@ -52,7 +52,7 @@ Write a Python program to read a file containing a list of students and their gr
 
 Implement a function enroll_student that takes a student's name and a course name to enroll in. Handle cases where the course is not offered or is already full. Raise appropriate exceptions for each case.
 
-## Q5: Functions and Exception Handling
+## Q5: Basic List Manipulation
 
 Write a Python function add_attraction that takes a list of tourist attractions in Minneapolis and adds a new attraction to it. The function should then return the updated list.
 
