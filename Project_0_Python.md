@@ -34,7 +34,10 @@ You need a Python (3.6 or higher) distribution and either Pip or Conda.
 
 If Python is new to you go through *https://developers.google.com/edu/python*
 
-## For every problem, write a main function that tests your code with a few sample test cases.
+## Instructions
+-  For every problem, write a main function that tests your code with a few sample test cases.
+-  If you have questions please feel free to Slack me anytime
+-  The goal of this project is to get you familiarized with some of the main functions of Python
 
 ## Q1: Basic String Manipulation
 
