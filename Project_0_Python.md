@@ -58,4 +58,5 @@ Write a Python function add_attraction that takes a list of tourist attractions 
 
 ## Submission
 
-I will create a repo for each of you, and you can submit your assignment to your repo.
+Each problem should have a main function that tests your function.  Have a seperate file for each problem.
+I will create a repo for each of you to submit to.
